@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "severity": 1,
+      "type": "Remote Code Execution",
+      "message": "This is just an example vulnerability for ReCon.",
+      "ref": "https://example.com"
+    },
+    
+    {
+      "severity": 2,
+      "type": "Authentication Bypass",
+      "message": "Ignore me, i'm just another example.",
+      "ref": "https://example.com"
+    },
+    
+    {
+      "severity": 3,
+      "type": "DoS",
+      "message": "A real vulnerability! But not here, i'm just another example.",
+      "ref": "https://example.com"
+    }
+  ]
+}
