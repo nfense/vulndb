@@ -42,6 +42,5 @@
       "message": "In Apache HTTP Server 2.4.0 to 2.4.41, mod_proxy_ftp may use uninitialized memory when proxying to a malicious FTP server.",
       "ref": "https://nvd.nist.gov/vuln/detail/CVE-2020-1934"
     }
-    }
   ]
 }
